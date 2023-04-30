@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "47205224104",
+    "project_id": "hacknirma-46885",
+    "storage_bucket": "hacknirma-46885.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47205224104:android:cf69ea559d28a36923fc9d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47205224104-i1888rdmpd9g1dpkns60s91ns4se2b3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq2d3oDzEi2YVAMQILUrcKdkMQg6GGbFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47205224104-i1888rdmpd9g1dpkns60s91ns4se2b3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
